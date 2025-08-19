@@ -23,6 +23,11 @@
    
 
         }
+        .navbar {
+            padding-top: 0;
+            padding-bottom: 0;
+
+        }
 
         .nav-link {
             color: #ffffff;
@@ -88,48 +93,4 @@
             .form-container {
                 padding: 20px;
             }
-        }
-
-        th,
-        td {
-            border: 1px solid #f9fafaff;
-            padding: 10px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #60b9e2ff;
-        }
-
-        tr:nth-child(even) {
-            background-color: #d0eaf7ff;
-        }
-
-        tr:nth-child(odd) {
-            background-color: #ffffffff;
-        }
-
-        body {
-            margin: 0;
-        }
-
-        .navbar {
-            padding-top: 0;
-            padding-bottom: 0;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-
-        th,
-        td {
-            padding: 8px;
-            border: 1px solid #ddd;
-        }
-
-        h2 {
-            margin-top: 20px;
         }

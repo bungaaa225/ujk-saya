@@ -11,12 +11,8 @@
 
         table {
             width: 60%;
-            margin-left: 50px;
-            margin-right: 50px;
-            margin-top: 100px;
             padding: 50px;
             margin: auto;
-
         }
         h2 {
             text-align: center;
@@ -46,7 +42,6 @@
 
         th {
             background-color:  #99c1eeff;
-            margin-top: 50px;
         }
 
         tr:nth-child(even) {
