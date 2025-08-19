@@ -1,0 +1,37 @@
+[
+    {
+        "kodeB": "BK001",
+        "judulB": "Laskar Pelangi",
+        "kate": "Cerita",
+        "pener": "Bentang Pustaka",
+        "harga": "85000"
+    },
+    {
+        "kodeB": "BK002",
+        "judulB": "Sang Mimpi",
+        "kate": "Cerita",
+        "pener": "Gramedia",
+        "harga": "95000"
+    },
+    {
+        "kodeB": "BK003",
+        "judulB": "Perahu Kertas",
+        "kate": "Cerita",
+        "pener": "Gramedia",
+        "harga": "80000"
+    },
+    {
+        "kodeB": "BK004",
+        "judulB": "Malin Kundang",
+        "kate": "cerita",
+        "pener": "Gramedia",
+        "harga": "50000"
+    },
+    {
+        "kodeB": "BK005",
+        "judulB": "IPA",
+        "kate": "Akademik",
+        "pener": "Gramedia",
+        "harga": "80000"
+    }
+]
